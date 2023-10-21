@@ -1,6 +1,6 @@
 {
-  "homepage": "https://Learnwithmj.github.io/textUtilsmj",
   "name": "my-app",
+  "homepage": "https://Learnwithmj.github.io/textUtilsmj",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
